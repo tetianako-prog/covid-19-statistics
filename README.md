@@ -1,9 +1,3 @@
-# Todo
+# COVID-19 statistics Ukraine
+Chart.js, csv, papaparse.js
 
-- https://parceljs.org/
-- https://data.giss.nasa.gov/gistemp/
-- https://www.papaparse.com/
-- https://www.chartjs.org/
-  - рисуем
-  - метки и датасеты
-  - кастомные поинты
